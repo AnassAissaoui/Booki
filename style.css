@@ -1,0 +1,135 @@
+body{
+    background-color: white;
+    width: 1475px;
+    height: 1931px;
+    margin: 0;
+    margin-left: 62px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    color: blueviolet;
+    display: flex;
+    justify-content: space-between;
+}
+.tête{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 25%;
+    color: black;
+}
+button{
+    color: white;
+    background-color: blue;
+}
+.filtrey{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 75%;
+    font-size: 18px;
+}
+.éco{
+    border-radius: 55px;
+    border: lightgray solid 1px;
+}
+.fami{
+    border-radius: 55px;
+    border: lightgray solid 1px;
+}
+.rom{
+    border-radius: 55px;
+    border: lightgray solid 1px;
+}
+.ani{
+    border-radius: 55px;
+    border: lightgray solid 1px;
+}
+.milieu{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+.hébergements{
+    width: 800px;
+    height: 600px;
+    background-color: #F2F2F2;
+    margin-left: 30px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.populaires{
+    width: 420px;
+    height: 600px;
+    background-color: #F2F2F2;
+    padding-left: 20px;
+    
+}
+
+footer{
+    background-color: #F2F2F2;
+    display: flex;
+    justify-content: space-around;
+    width: 1340px;
+    margin-left: 30px;
+    padding: 10px;
+}
+
+img{
+    height: 199px;
+    width: 246px;
+}
+.auberge1{
+    height: 179px;
+    width: 230px;
+}
+.hotel1{
+    height: 179px;
+    width: 230px;
+}
+.hotel2{
+    height: 179px;
+    width: 230px;
+}
+.hotel3{
+    height: 179px;
+    width: 230px;
+}
+.auberge2{
+    height: 179px;
+    width: 230px;
+}
+.hotel4{
+    height: 179px;
+    width: 230px;
+}
+.hotel5{
+    height: 137px;
+    width: 144px;
+}
+.chambre{
+    height: 137px;
+    width: 144px;
+}
+.hotel6{
+    height: 137px;
+    width: 144px;
+}
+.vieux{
+      height: 445px;
+      width: 302px;
+}
+.fort{
+    height: 445px;
+    width: 302px;
+}
+.parc{
+    height: 445px;
+    width: 302px;
+}
+.notre{
+    height: 445px;
+    width: 302px;
+}
